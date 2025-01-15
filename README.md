@@ -16,3 +16,4 @@ This project implements a basic blockchain using Rust. It contains modules for c
 * cargo run
 
 ## Screenshots
+![AltText](https://github.com/BebeGene/rust_web_scraper/blob/master/Screenshots/Headlines.png)
